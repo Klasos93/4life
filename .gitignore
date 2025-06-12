@@ -1,0 +1,7 @@
+config.yaml
+
+*.exe
+*.out
+*.*db
+*.log
+*.tmp
